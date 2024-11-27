@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parita-akoliya/contact-search-react/static/css/main.aa011d05.css",
+    "main.js": "/parita-akoliya/contact-search-react/static/js/main.4dae6ca8.js",
+    "static/js/453.17e8b8ac.chunk.js": "/parita-akoliya/contact-search-react/static/js/453.17e8b8ac.chunk.js",
+    "index.html": "/parita-akoliya/contact-search-react/index.html",
+    "main.aa011d05.css.map": "/parita-akoliya/contact-search-react/static/css/main.aa011d05.css.map",
+    "main.4dae6ca8.js.map": "/parita-akoliya/contact-search-react/static/js/main.4dae6ca8.js.map",
+    "453.17e8b8ac.chunk.js.map": "/parita-akoliya/contact-search-react/static/js/453.17e8b8ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa011d05.css",
+    "static/js/main.4dae6ca8.js"
+  ]
+}
